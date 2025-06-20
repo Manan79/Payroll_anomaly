@@ -492,7 +492,7 @@ elif option == "🔧 Custom Model":
             <li>Feature scaling and transformation</li>
             <li>Anomaly scoring</li>
         </ul>
-        <p><strong>Expected time:</strong> 30 seconds - 5 minutes depending on dataset size</p>
+        <p><strong>Expected time:</strong> 30 seconds - 2 minutes depending on dataset size </strong></p>
     </div>
     """, unsafe_allow_html=True)
     
