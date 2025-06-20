@@ -1,0 +1,12 @@
+matplotlib 
+scikit-learn 
+seaborn 
+pandas 
+numpy 
+werkzeug
+plotly.express 
+joblib
+# io
+tensorflow 
+
+
