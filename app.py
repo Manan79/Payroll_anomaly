@@ -183,6 +183,7 @@ with st.sidebar:
             <div style="padding: 1rem; background-color: #f3f4f6; border-radius: 8px; margin-top: 1rem;">
                 <p><strong>Pre-trained Autoencoder</strong></p>
                 <p style="font-size: 0.9rem;">Ready-to-use model for payroll anomaly detection with example data.</p>
+                <p style="font-size: 0.9rem;">Model will take 20-30 seconds to load </p>
             </div>
         """, unsafe_allow_html=True)
     
