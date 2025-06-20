@@ -6,7 +6,6 @@ numpy
 werkzeug
 plotly.express 
 joblib
-# io
-tensorflow 
+tensorflow==2.19.0
 
 
