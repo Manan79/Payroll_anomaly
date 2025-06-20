@@ -4,6 +4,7 @@ seaborn
 pandas 
 numpy 
 werkzeug
+openpyxl
 plotly.express 
 joblib
 tensorflow==2.19.0
